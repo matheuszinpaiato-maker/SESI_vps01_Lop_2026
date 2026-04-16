@@ -1,0 +1,18 @@
+ESCREVA("Digite seu nome, sexo m\s e idade");
+LEIA(nome, sexo, idade);
+SE(sexo == 'm')
+ENTÃO
+	SE(Idade > 65)
+		ESCREVA("O atendimento do paciente %s é prioritário" ,nome);
+	SENÂO
+		ESCREVA("O atendimento do paciente $%s é normal" ,nome);
+	FIMSE
+     SENÂO
+	SE(idade > 60) 
+	ENTÃO
+		ESCREVA("O atendimento do paciente %s é prioritário" ,nome);
+	SENÂO
+		ESCREVA("O atendimento do paciente $%s é normal" ,nome);
+	FIMSE
+       FIMSE
+FIM
