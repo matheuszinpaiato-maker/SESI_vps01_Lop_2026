@@ -1,2 +1,11 @@
-# SESI_vps01_Lop_2026
-# SESI_vps01_Lop_2026
+# Avaliação 01
+## VPS01 (Verificação Prática Somativa 01) 
+
+## Tecnologias 
+
+|Tecnologia|Descrição|
+|-|-|
+|Linguagem C|Dev|
+|[Draw.io](https://app.diagrams.net/)|Diagramas|
+|IDE|Embarcadero DevC++|
+|Bloco de Notas|Portugol|
